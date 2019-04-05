@@ -6,6 +6,7 @@ module.exports = {
     return {
       '/home': { page: '/home' },
       '/next': { page: '/next' },
+      '/startup': { page: '/startup' },
     };
   },
 };

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c56575a1-8c85-4550-ba53-aa7fe58df5d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renderer/components/modList/ModDetailView.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renderer/components/modList/ModSearch.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renderer/components/modList/ModStatusButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renderer/pages/modList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/BwOko4AXly26n44mABVpa/pages/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/BwOko4AXly26n44mABVpa/pages/_error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/BwOko4AXly26n44mABVpa/pages/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/BwOko4AXly26n44mABVpa/pages/next.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/chunks/commons.b7bd8b03f2f7c4eeb747.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/development/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/_next/static/development/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/development/pages/_app.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/_next/static/development/pages/_app.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/development/pages/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/development/pages/home.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/development/pages/next.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/development/pages/next.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/runtime/main-baec1ba0327d87bec7f4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/runtime/webpack.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/_next/static/runtime/webpack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/runtime/webpack.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/_next/static/runtime/webpack.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/webpack/1a98836a6e934d4220e8.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_next/static/webpack/203c225955a7600c679b.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/background.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/background.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/next/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/next/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/main/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/helpers/create-window.js" beforeDir="false" afterPath="$PROJECT_DIR$/main/helpers/create-window.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/helpers/exit-on-change.js" beforeDir="false" afterPath="$PROJECT_DIR$/main/helpers/exit-on-change.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/helpers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/main/helpers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/helpers/ipc.js" beforeDir="false" afterPath="$PROJECT_DIR$/main/helpers/ipc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/helpers/resolveWithIpc.js" beforeDir="false" afterPath="$PROJECT_DIR$/main/helpers/resolveWithIpc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextron/nextron-dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/nextron/nextron-dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextron/webpack/webpack.base.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nextron/webpack/webpack.base.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderer/lib/get-page-context.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/renderer/lib/get-page-context.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderer/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/renderer/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderer/pages/_app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/renderer/pages/_app.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderer/pages/_document.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/renderer/pages/_document.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderer/pages/home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/renderer/pages/home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renderer/pages/next.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/renderer/pages/next.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/dist/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/background.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>display4</find>
+      <find>pendingModID</find>
+      <find>classes.</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/nextron/webpack/webpack.base.config.js" />
+        <option value="$PROJECT_DIR$/nextron/nextron-dev.js" />
+        <option value="$PROJECT_DIR$/.babelrc.disabled" />
+        <option value="$PROJECT_DIR$/renderer/pages/modList.js" />
+        <option value="$PROJECT_DIR$/renderer/components/modList/ModDetailView.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.json5" />
+        <option value="$PROJECT_DIR$/renderer/pages/startup.jsx" />
+        <option value="$PROJECT_DIR$/renderer/components/modList/ModSearch.jsx" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/renderer/components/modList/ModDetailView.jsx" />
+        <option value="$PROJECT_DIR$/main/packageManagement.js" />
+        <option value="$PROJECT_DIR$/renderer/pages/modList.jsx" />
+        <option value="$PROJECT_DIR$/renderer/context/modsContext.jsx" />
+        <option value="$PROJECT_DIR$/renderer/components/modList/ModStatusButton.jsx" />
+        <option value="$PROJECT_DIR$/main/background.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KSPackage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KSPackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KSPackage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KSPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KSPackage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KSPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="nextron" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KSPackage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KSPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="nextron" type="462c0819:PsiDirectoryNode" />
+              <item name="webpack" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c56575a1-8c85-4550-ba53-aa7fe58df5d0" name="Default Changelist" comment="" />
+      <created>1553802565922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553802565922</updated>
+      <workItem from="1553802567295" duration="37544000" />
+      <workItem from="1554482911326" duration="1336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38880000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29308975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32981133" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/kspackage-lib/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nextron/nextron-build.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nextron/webpack/build.production.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nextron/webpack/webpack.main.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nextron/webpack/webpack.base.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nextron/nextron-dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer/pages/_app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer/helpers/resolve.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer/helpers/resolveWithIpc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer/pages/home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer/pages/next.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="10" selection-end-line="50" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer/pages/startup.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="42" column="94" selection-start-line="42" selection-start-column="94" selection-end-line="42" selection-end-column="94" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="188" column="18" selection-start-line="188" selection-start-column="18" selection-end-line="188" selection-end-column="18" />
+          <folding>
+            <element signature="e#170#8500#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer/.next/static/webpack/static/development/pages/modList.js.4fb7b16aaac3c9a8528e.hot-update.js" />
+    <entry file="file://$PROJECT_DIR$/main/packageManagement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer/pages/modList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="113" column="35" selection-start-line="113" selection-start-column="35" selection-end-line="113" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer/components/modList/ModSearch.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer/components/modList/ModDetailView.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer/components/modList/ModStatusButton.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="86" column="91" selection-start-line="86" selection-start-column="91" selection-end-line="86" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderer/context/modsContext.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

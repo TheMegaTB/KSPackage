@@ -4,8 +4,8 @@ import ipc from './ipc';
 import resolveWithIpc from './resolveWithIpc';
 
 export {
-  createWindow,
-  exitOnChange,
-  ipc,
-  resolveWithIpc,
+	createWindow,
+	exitOnChange,
+	ipc,
+	resolveWithIpc
 };
